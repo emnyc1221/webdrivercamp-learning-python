@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 print('Learning Python is fun' )
 
 my_variable = 99.99999
