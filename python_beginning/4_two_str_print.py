@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 first_part = "Webdriver "
 
 second_part = "Camp! "
