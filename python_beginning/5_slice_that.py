@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 my_string = "Webdriver Awesome Camp"
 current_word = ""
 for char in my_string:
