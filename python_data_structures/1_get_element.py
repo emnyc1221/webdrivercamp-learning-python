@@ -5,12 +5,10 @@ def get_element(lst, index):
         return lst[index]
     else:
         return None
+list_ = [5, 4, 3, 2, 1]
+index = 2
 
-if __name__ == "__main":
-    list_ = [5, 4, 3, 2, 1]
-    index = 2
+result = get_element(list_, index)
 
-    result = get_element(list_, index)
-
-    if result is not None:
-        print(f"The element retrieved is {result}")
+if result is not None:
+    print(f"The element retrieved is {result}")
