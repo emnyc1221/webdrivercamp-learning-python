@@ -1,0 +1,8 @@
+0 - //ul[@id='gh-topl']//a|//ul[@id='gh-eb']/li
+1 - //h3[@class='x-refine__item'][text()!='Category']
+2 - //h3[@class='x-refine__item'][text()!='Category'][text()='Brand']
+  - //h3[@class='x-refine__item'][text()!='Category'][text()='Color']
+3 - //h3[@class='x-refine__item'][text()!='Category'][text()='Brand']/ancestor::li//input[@aria-label='adidas']
+  - //h3[@class='x-refine__item'][text()!='Category'][text()='Brand']/ancestor::li//input[@aria-label='Blue']
+4 - //ul[@class='srp-results srp-grid clearfix']/li[@data-viewport]//span[@role='heading'][translate(text(),'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='ozweego shoes']
+5 - //ul[contains(@id,'gh-ul-nav')]/li/a
